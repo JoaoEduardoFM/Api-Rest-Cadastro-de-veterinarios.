@@ -1,0 +1,7 @@
+model\Veterinario.class
+persistence\Colecao.class
+persistence\ConexaoSingleton.class
+persistence\ColecaoDeVeterinario.class
+exception\ColecaoException.class
+application\RestAPI.class
+exception\ConexaoException.class
